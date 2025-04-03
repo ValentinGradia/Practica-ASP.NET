@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\MotoDos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|c:\\users\\valen\\source\\repos\\motodos\\webmotodos\\catalogocompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\catalogocompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\catalogocompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\catalogocompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|C:\\Users\\valen\\source\\repos\\MotoDos\\webmotodos\\header.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}|WebMotoDos\\WebMotoDos.csproj|solutionrelative:webmotodos\\header.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogoCompras.aspx",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\CatalogoCompras.aspx",
+              "RelativeDocumentMoniker": "WebMotoDos\\CatalogoCompras.aspx",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\CatalogoCompras.aspx",
+              "RelativeToolTip": "WebMotoDos\\CatalogoCompras.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T21:33:43.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Default.aspx.cs",
+              "RelativeToolTip": "WebMotoDos\\Default.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:56:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoCompras.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\CatalogoCompras.aspx.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\CatalogoCompras.aspx.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\CatalogoCompras.aspx.cs",
+              "RelativeToolTip": "WebMotoDos\\CatalogoCompras.aspx.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:09:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Perfil.aspx.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\Perfil.aspx.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Perfil.aspx.cs",
+              "RelativeToolTip": "WebMotoDos\\Perfil.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:53:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Registro.aspx",
+              "RelativeDocumentMoniker": "WebMotoDos\\Registro.aspx",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Registro.aspx",
+              "RelativeToolTip": "WebMotoDos\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T22:25:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Controllers\\MotoController.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\Controllers\\MotoController.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Controllers\\MotoController.cs",
+              "RelativeToolTip": "WebMotoDos\\Controllers\\MotoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:32:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Models\\Moto.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\Models\\Moto.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Models\\Moto.cs",
+              "RelativeToolTip": "WebMotoDos\\Models\\Moto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:32:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perfil.aspx",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Perfil.aspx",
+              "RelativeDocumentMoniker": "WebMotoDos\\Perfil.aspx",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Perfil.aspx",
+              "RelativeToolTip": "WebMotoDos\\Perfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-22T20:39:22.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Header.ascx.cs",
+              "RelativeDocumentMoniker": "WebMotoDos\\Header.ascx.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\MotoDos\\WebMotoDos\\Header.ascx.cs",
+              "RelativeToolTip": "WebMotoDos\\Header.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:54:17.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
