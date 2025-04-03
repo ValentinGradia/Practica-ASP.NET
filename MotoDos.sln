@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotoDos", "WebMotoDos\WebMotoDos.csproj", "{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsMotoDos", "TestsUnitarios\TestsMotoDos.csproj", "{2F2F83B1-7161-483D-9A01-37D820FF84AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4D6DB1-9B05-40CC-A9E1-13207FCCD648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2F83B1-7161-483D-9A01-37D820FF84AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2F83B1-7161-483D-9A01-37D820FF84AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2F83B1-7161-483D-9A01-37D820FF84AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2F83B1-7161-483D-9A01-37D820FF84AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C811AED-340E-4D51-A3EC-58B9FAFFA4CD}
+	EndGlobalSection
+EndGlobal
